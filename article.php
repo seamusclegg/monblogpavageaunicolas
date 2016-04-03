@@ -1,4 +1,3 @@
-
 <?php
 session_start();
 
@@ -71,4 +70,3 @@ if (isset($_POST['envoyer'])) {
     include_once 'include/menu.inc.php';
     include_once 'include/footer.inc.php';
 ?>
-\ No newline at end of file

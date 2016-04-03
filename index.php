@@ -1,4 +1,3 @@
-
 <?php
 session_start();
 
@@ -83,4 +82,3 @@ include_once 'include/menu.inc.php';
 include_once 'include/footer.inc.php';
 //insertion du footer HTML de la page
 ?>   
-\ No newline at end of file
